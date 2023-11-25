@@ -1,0 +1,1 @@
+# szipo-label-generate
